@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalculadoraEnergiaApplication {
+public class StarterApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CalculadoraEnergiaApplication.class, args);
+		SpringApplication.run(StarterApp.class, args);
 
 
 
